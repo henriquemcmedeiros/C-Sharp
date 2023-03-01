@@ -1,0 +1,8 @@
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\TestesDeEntrada\bin\Debug\TestesDeEntrada.exe.config
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\TestesDeEntrada\bin\Debug\TestesDeEntrada.exe
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\TestesDeEntrada\bin\Debug\TestesDeEntrada.pdb
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\TestesDeEntrada\obj\Debug\TestesDeEntrada.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\TestesDeEntrada\obj\Debug\TestesDeEntrada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\TestesDeEntrada\obj\Debug\TestesDeEntrada.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\TestesDeEntrada\obj\Debug\TestesDeEntrada.exe
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\TestesDeEntrada\obj\Debug\TestesDeEntrada.pdb

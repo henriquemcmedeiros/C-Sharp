@@ -1,0 +1,8 @@
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\Ex - 001 - Olá, Mundo\bin\Debug\Ex - 001 - Olá, Mundo.exe.config
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\Ex - 001 - Olá, Mundo\bin\Debug\Ex - 001 - Olá, Mundo.exe
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\Ex - 001 - Olá, Mundo\bin\Debug\Ex - 001 - Olá, Mundo.pdb
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\Ex - 001 - Olá, Mundo\obj\Debug\Ex - 001 - Olá, Mundo.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\Ex - 001 - Olá, Mundo\obj\Debug\Ex - 001 - Olá, Mundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\Ex - 001 - Olá, Mundo\obj\Debug\Ex - 001 - Olá, Mundo.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\Ex - 001 - Olá, Mundo\obj\Debug\Ex - 001 - Olá, Mundo.exe
+C:\Users\Pichau\Documents\MeusProjetos\Exercicios-C#\AprendendoCSharp\Ex - 001 - Olá, Mundo\obj\Debug\Ex - 001 - Olá, Mundo.pdb
