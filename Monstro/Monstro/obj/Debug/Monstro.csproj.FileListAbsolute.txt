@@ -1,0 +1,8 @@
+C:\Users\Pichau\Documents\MeusProjetos\CartagenaPI\Monstro\Monstro\obj\Debug\Monstro.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\MeusProjetos\CartagenaPI\Monstro\Monstro\obj\Debug\Monstro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Documents\MeusProjetos\CartagenaPI\Monstro\Monstro\obj\Debug\Monstro.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\MeusProjetos\CartagenaPI\Monstro\Monstro\bin\Debug\Monstro.exe.config
+C:\Users\Pichau\Documents\MeusProjetos\CartagenaPI\Monstro\Monstro\bin\Debug\Monstro.exe
+C:\Users\Pichau\Documents\MeusProjetos\CartagenaPI\Monstro\Monstro\bin\Debug\Monstro.pdb
+C:\Users\Pichau\Documents\MeusProjetos\CartagenaPI\Monstro\Monstro\obj\Debug\Monstro.exe
+C:\Users\Pichau\Documents\MeusProjetos\CartagenaPI\Monstro\Monstro\obj\Debug\Monstro.pdb
