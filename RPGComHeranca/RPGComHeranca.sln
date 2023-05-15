@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGComHeranca", "RPGComHeranca\RPGComHeranca.csproj", "{4D081C13-2173-41EE-B75B-D3B38C0A35FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D081C13-2173-41EE-B75B-D3B38C0A35FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D081C13-2173-41EE-B75B-D3B38C0A35FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D081C13-2173-41EE-B75B-D3B38C0A35FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D081C13-2173-41EE-B75B-D3B38C0A35FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24F77DB3-6159-42C8-A4F6-A9E3B990252E}
+	EndGlobalSection
+EndGlobal
